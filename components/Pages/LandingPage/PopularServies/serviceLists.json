@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Instagram + Threads",
+    "link": "/images/services/Group.png",
+    "blurLink": "/images/services/Group.png"
+  },
+  {
+    "title": "Telegram",
+    "link": "/images/services/logos_telegram.png",
+    "blurLink": "/images/services/logos_telegram.png"
+  },
+  {
+    "title": "Whatsapp",
+    "link": "/images/services/logos_whatsapp.png",
+    "blurLink": "/images/services/logos_whatsapp.png"
+  },
+  {
+    "title": "Google, Youtube",
+    "link": "/images/services/logos_youtube.png",
+    "blurLink": "/images/services/logos_youtube.png"
+  },
+  {
+    "title": "Tinder",
+    "link": "/images/services/logos_tinder.png",
+    "blurLink": "/images/services/logos_tinder.png"
+  },
+  {
+    "title": "Microsoft",
+    "link": "/images/services/logos_microsoft-icon.png",
+    "blurLink": "/images/services/logos_microsoft-icon.png"
+  },
+  {
+    "title": "Facebook",
+    "link": "/images/services/devicon_facebook.png",
+    "blurLink": "/images/services/devicon_facebook.png"
+  },
+  {
+    "title": "Discord",
+    "link": "/images/services/skill-icons_discord.png",
+    "blurLink": "/images/services/skill-icons_discord.png"
+  },
+  {
+    "title": "TikTok",
+    "link": "/images/services/logos_tiktok.png",
+    "blurLink": "/images/services/logos_tiktok.png"
+  }
+]

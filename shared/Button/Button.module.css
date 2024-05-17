@@ -1,0 +1,3 @@
+.buttonCss:active [class*="corner"] {
+  background-color: #093641 !important;
+}
